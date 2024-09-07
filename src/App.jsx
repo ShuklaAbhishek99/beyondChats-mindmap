@@ -54,7 +54,7 @@ function App() {
                 <header className="bg-white">
                     <NavBar />
                 </header>
-                <div className="overflow-y-scroll">
+                <div>
                     <section className="w-[90%] mobile:w-[70%] xl:w-[50%] mx-auto my-4">
                         <div className="flex flex-wrap gap-2 justify-center poppins-medium">
                             <AddData
